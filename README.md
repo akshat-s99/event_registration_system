@@ -7,7 +7,7 @@ A simple console-based Event Registration System written in Java.
 - **View Registrations**: List all registered students.
 - **Search**: Find registrations by Roll Number.
 - **Delete**: Remove a registration by Roll Number.
-- **Edit**: Update details of an existing registration.
+- **Edit**: Update details of an existing registration
 - **Data Persistence**: Currently runs in-memory (data is lost when program exits).
 
 ## Enhancements
