@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 
 public class EventRegistrationSystem {
 
-    // --- Inner Classes for OOP Concepts ---
+    // --- Inner Classes for OOP Concepts --
 
     // Student Class: Encapsulates student details
     static class Student {
